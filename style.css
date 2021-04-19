@@ -1,0 +1,60 @@
+.container_top {
+    width: 800px;
+    margin: auto;
+    background-color: #b91450;
+    height: 200px;
+}
+
+#container_bottom {
+    width: 800px;
+    margin: auto;
+    background-color: rgb(156, 140, 140);
+    height: 250px;
+}
+
+.row {
+    display: inline-block;
+}
+
+h1 {
+text-align: center;
+}
+
+.container_top form {
+    margin-left: 30px;
+}
+
+button {
+    margin: auto;
+}
+
+h4 {
+    margin-left: 40px;
+}
+h5 {
+    display: inline-block;
+    margin: 10px 40px 50px;
+}
+
+table {
+    width: 800px;
+}
+
+td {
+    text-align: center;
+}
+
+.show {
+    opacity: 1;
+    transition: 0.5s;
+} 
+
+.hidden {
+    opacity: 0;
+    transition: 0.5s;
+}
+
+
+
+
+
